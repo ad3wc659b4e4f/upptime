@@ -4,24 +4,24 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Vercel
-    url: https://www.lynx3.top/
+    url: https://www.lynx3.cc/
   - name: Netlify
-    url: https://nl2.lynx3.top/
+    url: https://nl2.lynx3.cc/
   - name: GitHub Pages
-    url: https://gh.lynx3.top/
+    url: https://gh.lynx3.cc/
   - name: Twikoo Vercel
-    url: https://vc.tk.api.lynx3.top/
+    url: https://vc.tk.api.lynx3.cc/
   - name: Twikoo Netlify
-    url: https://nl.tk.api.lynx3.top/.netlify/functions/twikoo
+    url: https://nl.tk.api.lynx3.cc/.netlify/functions/twikoo
   - name: Waline Vercel
-    url: https://vc.wl.api.lynx3.top/
+    url: https://vc.wl.api.lynx3.cc/
   - name: Vercount Vercel
-    url: https://vercount.api.lynx3.top/js
+    url: https://vercount.api.lynx3.cc/js
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.lynx3.top
+  cname: upptime.lynx3.cc
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
