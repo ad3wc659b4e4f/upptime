@@ -15,8 +15,6 @@ sites:
     url: https://nl.tk.api.lynx3.cc/.netlify/functions/twikoo
   - name: Waline Vercel
     url: https://vc.wl.api.lynx3.cc/
-  - name: Vercount Vercel
-    url: https://vercount.api.lynx3.cc/js
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
